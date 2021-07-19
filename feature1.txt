@@ -1,3 +1,9 @@
 new file added on feature1 branch
 
+
 update from feature2 branch
+
+and
+
+changes made from github
+
